@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="yaebscart:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/yaebscart_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="yaebscart/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="yaebscart" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
